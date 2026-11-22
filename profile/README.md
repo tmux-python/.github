@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source srcset="https://raw.githubusercontent.com/libtmux/assets/main/assets/python/library/logo.svg" type="image/svg+xml">
-    <img src="https://raw.githubusercontent.com/libtmux/assets/main/assets/python/library/logo-512.png" width="96" height="96" alt="tmux-python">
+    <source srcset="https://raw.githubusercontent.com/tmux-python/.github/main/assets/logo.svg" type="image/svg+xml">
+    <img src="https://raw.githubusercontent.com/tmux-python/.github/main/assets/logo.png" width="96" height="96" alt="tmux-python">
   </picture>
 </p>
 

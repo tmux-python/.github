@@ -15,6 +15,7 @@ Organization defaults that GitHub reads, and the policies they link to:
 | Path | What it is |
 | --- | --- |
 | [profile/README.md](profile/README.md) | The public profile rendered on [github.com/tmux-python](https://github.com/tmux-python) |
+| [assets/](assets/) | Canonical `logo.svg` and `logo.png` used by `profile/README.md` |
 | [PULL_REQUEST_TEMPLATE.md](PULL_REQUEST_TEMPLATE.md) | The pull request template of every repository without its own |
 | [AI_POLICY.md](AI_POLICY.md) | How the libtmux and tmux-python projects treat AI tools, which the template links |
 | [README.md](README.md) | What the repository is for |
